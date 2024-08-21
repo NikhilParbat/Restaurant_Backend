@@ -1,6 +1,7 @@
 package main
 
 import (
+	"golang-restaurant-backend/database"
 	"golang-restaurant-backend/middleware"
 	"golang-restaurant-backend/routes"
 	"os"
